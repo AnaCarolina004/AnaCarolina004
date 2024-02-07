@@ -9,15 +9,15 @@
 - Python
 - C++
 - Mysql
-
-#### Conhecimentos adicionais
-- Programação Orientada a Objeto
-- Metodologia Ágies
-- Modelo MVC
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Ana-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ana-Cplusplus" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"> 
   <img align="center" alt="Ana-MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg">
 </div>
+#### Conhecimentos adicionais
+- Programação Orientada a Objeto
+- Metodologia Ágies
+- Modelo MVC
+
+
