@@ -15,6 +15,7 @@
   <img align="center" alt="Ana-Cplusplus" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"> 
   <img align="center" alt="Ana-MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg">
 </div>
+
 #### Conhecimentos adicionais
 - Programação Orientada a Objeto
 - Metodologia Ágies
