@@ -14,10 +14,12 @@
 - Mysql
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Ana-React" height="40" width="50" src="https://www.svgrepo.com/show/303500/react-1-logo.svg">
+  <img align="center" alt="Ana-Node" height="40" width="50" src="https://www.svgrepo.com/show/314393/node-js.svg">
+  <img align="center" alt="Ana-PHP" height="40" width="50" src="https://www.svgrepo.com/show/452088/php.svg">
   <img align="center" alt="Ana-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ana-Cplusplus" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"> 
   <img align="center" alt="Ana-MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Ana-React" height="40" width="50" src="https://www.svgrepo.com/show/303500/react-1-logo.svg">
 
 </div>
 
